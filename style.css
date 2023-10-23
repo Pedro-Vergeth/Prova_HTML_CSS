@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    
+}
+
+header{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    height: 20vh;
+    justify-content: flex-start;
+    align-items: center;
+    
+
+}
+header button{
+    
+    font: 30px italic ;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    margin-right: 60vh;
+    margin-left: 10vh;
+    
+}
+
+#AIGA{
+    
+    height: 20vh;
+}
+main{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    height: 70vh;
+    justify-content: space-around;
+    align-items:center;
+}
+.menu{
+    height: 35vh;
+}
+.menu2{
+    height: 20vh;
+}
+footer{
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-around;
+}
+footer div{
+display: flex;
+flex-direction: row;
+
+
+}
+.github{
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+}
